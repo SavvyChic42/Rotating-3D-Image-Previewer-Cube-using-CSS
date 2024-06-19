@@ -1,0 +1,17 @@
+.main-class{
+    width:400px;
+    hegiht:400px;
+    margin:200px auto;
+    perspective:800px;
+}
+
+.box-class{
+   width:400px;
+   transform-style:preserve-3d;
+   animation:rotate 15s linear infinite;
+}
+
+#box-class div{
+    position:
+    
+}

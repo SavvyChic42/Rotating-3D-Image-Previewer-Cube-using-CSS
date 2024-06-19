@@ -1,0 +1,33 @@
+.main-class{
+    width:400px;
+    hegiht:400px;
+    margin:200px auto;
+    perspective:800px;
+}
+
+.box-class{
+   width:400px;
+   transform-style:preserve-3d;
+   animation:rotate 15s linear infinite;
+}
+
+#box-class div{
+    position:absolute;
+    width:400px;
+    hegiht:400px;
+    opacity:0.9;
+    color:white;
+}
+
+.front{
+    transform:translateZ(200px);
+    background:black;
+    background-image:url("theme.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.back{
+    transform
+}
